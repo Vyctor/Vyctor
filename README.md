@@ -5,6 +5,10 @@
 </p>  
 
 <p align='center'>
+  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=Vyctor.Vyctor"></a>
+</p>
+
+<p align='center'>
   <a href="https://www.linkedin.com/in/vyctorguimaraes/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:dev.vyctor@gmail.com?subject=Olá%20Vyctr"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; 
 </p> 
