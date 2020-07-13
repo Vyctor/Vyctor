@@ -12,8 +12,8 @@
 <img style="display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 100%;" src="img/giphy.gif">
-
+  width: 100%;" src="https://blog.umbler.com/wp-content/uploads/2018/01/giphy-itcrowd.gif
+">
 <hr>
 
 <h4> 🔭 I’m currently working with ...</h4>
