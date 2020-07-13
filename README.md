@@ -30,10 +30,11 @@
   <img src="https://img.shields.io/badge/angular%20-%23e34f26.svg?&style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;
 
 <h5> Back-end</h5>
-  <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/firebase%20-%23e34f26.svg?&style=for-the-badge&logo=firebase&logoColor=white" />&nbsp;&nbsp;
-
-
+  <p>
+    <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/firebase%20-%23e34f26.svg?&style=for-the-badge&logo=firebase&logoColor=white" />&nbsp;&nbsp;
+  </p>
+  
 <h5>Educational Projects</h5>
 <p >
   <img src="https://img.shields.io/badge/scratch%20-%234d97ff.svg?&style=for-the-badge&logo=scratch&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/inkscape%20-%23000000.svg?&style=for-the-badge&logo=inkscape&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/arduino%20-%2300979d.svg?&style=for-the-badge&logo=arduino&logoColor=white" />&nbsp;&nbsp;&nbsp;
