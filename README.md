@@ -1,4 +1,4 @@
-<h1 align='center'> Hello there 👋. My name is Vyctor, and this is my Github personal page.  💻 </h1>
+<h1 align='center'> My name is Vyctor, and this is my Github personal page.  💻 </h1>
  
 <p align='center'>
   I live on Rio Verde, Brazil and work as Fullstack Developer on <b>Pede o Menu</b> 
@@ -9,9 +9,6 @@
   <a href="mailto:dev.vyctor@gmail.com?subject=Olá%20Vyctr"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; 
 </p> 
 
-<p align='center'>
-  <img src="./img/giphy.gif">
-</p>
 <hr>
 
 <h4> 🔭 I’m currently working with ...</h4>
@@ -48,6 +45,3 @@
   <img src="https://img.shields.io/badge/flutter%20-02569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp;&nbsp;  <img src="https://img.shields.io/badge/MongoDB%20-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white" />&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/PostgreSQL%20-336791.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white" />&nbsp;&nbsp;&nbsp;  <img src="https://img.shields.io/badge/jest%20-C21325.svg?&style=for-the-badge&logo=Jest&logoColor=white" />&nbsp;&nbsp;&nbsp;  
   
 </p> 
-
-
-s
