@@ -12,8 +12,7 @@
 <img style="display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 100%;" src="https://blog.umbler.com/wp-content/uploads/2018/01/giphy-itcrowd.gif
-">
+  width: 100%;" src="./img/giphy.gif">
 <hr>
 
 <h4> 🔭 I’m currently working with ...</h4>
@@ -36,10 +35,9 @@
 
 <h5> Software and Tools</h5>
   <p>
-    <img src="https://img.shields.io/badge/VS Code%20-007ACC.svg?&style=for-the-badge&logo=Visual Studio Code&logoColor=white" />&nbsp;&nbsp;    
     <img src="https://img.shields.io/badge/git%20-F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/github%20-181717.svg?&style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;    
-    <img src="https://img.shields.io/badge/bitbucket%20-0052CC.svg?&style=for-the-badge&logo=Bitbucket&logoColor=white" />&nbsp;&nbsp;    <img src="https://img.shields.io/badge/Adobe Photoshop%20-26C9FF.svg?&style=for-the-badge&logo=Adobe Photoshop&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Insomnia%20-5849BE.svg?&style=for-the-badge&logo=Insomnia&logoColor=white" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/bitbucket%20-0052CC.svg?&style=for-the-badge&logo=Bitbucket&logoColor=white" />&nbsp;&nbsp;     <img src="https://img.shields.io/badge/Insomnia%20-5849BE.svg?&style=for-the-badge&logo=Insomnia&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Docker%20-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white" />&nbsp;&nbsp;
   </p>
 
@@ -49,7 +47,8 @@
 <p >
   <img src="https://img.shields.io/badge/react%20-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;      
   <img src="https://img.shields.io/badge/flutter%20-02569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp;&nbsp;  <img src="https://img.shields.io/badge/MongoDB%20-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white" />&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/PostgreSQL%20-336791.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white" />&nbsp;&nbsp;&nbsp;  <img src="https://img.shields.io/badge/jest%20-C21325.svg?&style=for-the-badge&logo=Jest&logoColor=white" />&nbsp;&nbsp;&nbsp;  
-  <img src="https://img.shields.io/badge/Adobe XD%20-FF26BE.svg?&style=for-the-badge&logo=Adobe XD&logoColor=white" />&nbsp;&nbsp;&nbsp;   
+  
 </p> 
 
 
+s
