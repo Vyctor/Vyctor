@@ -1,7 +1,7 @@
 <h1 align='center'> My name is Vyctor, and this is my Github personal page.  💻 </h1>
  
 <p align='center'>
-  I live on Rio Verde, Brazil and work as Fullstack Developer on <b>Pede o Menu</b> 
+  Full-stack developer working on Pede o Menu with Javascript, Typescript, Angular 2+, Node.js, Firebase/Google Cloud. 
 </p>  
 
 <p align='center'>
