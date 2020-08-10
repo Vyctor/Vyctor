@@ -5,7 +5,7 @@
 </p>  
 
 <p align='center'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=Vyctor.Vyctor"></a>
+  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=Vyctor"></a>
 </p>
 
 <p align='center'>
