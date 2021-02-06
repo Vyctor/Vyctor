@@ -57,5 +57,6 @@
 <h2 style="padding: 32px 0; font-weight: bold">🌱 I'm currently learning...</h2> 
 <p>
   <img src="https://img.shields.io/badge/react%20-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;      
-  <img src="https://img.shields.io/badge/flutter%20-02569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp;&nbsp;  <img src="https://img.shields.io/badge/MongoDB%20-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white" />&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/PostgreSQL%20-336791.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white" />&nbsp;&nbsp;&nbsp;  <img src="https://img.shields.io/badge/jest%20-C21325.svg?&style=for-the-badge&logo=Jest&logoColor=white" />&nbsp;&nbsp;&nbsp;  
+  <img src="https://img.shields.io/badge/flutter%20-02569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" /> &nbsp;&nbsp;&nbsp;      
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>&nbsp;&nbsp;&nbsp;  <img src="https://img.shields.io/badge/MongoDB%20-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white" />&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/PostgreSQL%20-336791.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white" />&nbsp;&nbsp;&nbsp;  <img src="https://img.shields.io/badge/jest%20-C21325.svg?&style=for-the-badge&logo=Jest&logoColor=white" />&nbsp;&nbsp;&nbsp;  
 </p>
