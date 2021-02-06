@@ -1,8 +1,8 @@
-<h1 align='center'> My name is Vyctor, and this is my Github personal page.  💻 </h1>
+<h1 align='center'> Hello there, my name's Vyctor and this is my Github personal page.  💻 </h1>
  
 <p align='center'>
-  Full-stack developer working at Pede o Menu with Javascript, Typescript, Angular 2+, Node.js, Firebase/Google Cloud. 
-</p>  
+  Bachelor's degree in Computer Science, Full Stack developer working at <b>Pede o Menu<b> with Javascript, Typescript, Angular, Node.js and Firebase/Google Cloud. 
+</p>>  
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/vyctorguimaraes/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
