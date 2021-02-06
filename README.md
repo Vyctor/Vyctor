@@ -28,9 +28,9 @@
 
 <hr>
 
-<h4> 🔭 I’m currently working with ...</h4>
+<h1> 🔭 I’m currently working with ...</h1>
 
-<h5> Frontend</h5>
+<h2 style="padding: 32px 0; font-weight: bold">Frontend</h2>
 <p >
   <img src="https://img.shields.io/badge/html5%20-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/css3%20-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
@@ -38,13 +38,13 @@
   <img src="https://img.shields.io/badge/typescript%20-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/angular%20-DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;
 
-<h5> Back-end</h5>
+<h2 style="padding: 32px 0; font-weight: bold">Backend</h2>
   <p>
     <img src="https://img.shields.io/badge/node.js%20-F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/firebase%20-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" />&nbsp;&nbsp;
   </p>
 
-<h5> Software and Tools</h5>
+<h2 style="padding: 32px 0; font-weight: bold">Software and Tools</h2>
   <p>
     <img src="https://img.shields.io/badge/git%20-F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/github%20-181717.svg?&style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;    
@@ -54,9 +54,8 @@
 
 <hr>
 
-<h4>🌱 I'm currently learning...</h4>
-<p >
+<h2 style="padding: 32px 0; font-weight: bold">🌱 I'm currently learning...</h2> 
+<p>
   <img src="https://img.shields.io/badge/react%20-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;      
   <img src="https://img.shields.io/badge/flutter%20-02569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp;&nbsp;  <img src="https://img.shields.io/badge/MongoDB%20-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white" />&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/PostgreSQL%20-336791.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white" />&nbsp;&nbsp;&nbsp;  <img src="https://img.shields.io/badge/jest%20-C21325.svg?&style=for-the-badge&logo=Jest&logoColor=white" />&nbsp;&nbsp;&nbsp;  
-  
 </p>
