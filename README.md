@@ -4,7 +4,7 @@
   </h1>
 </p>
  
-<p style="font-size: 16px">
+<p style="font-size: 18px">
   Bachelor's degree in 
   <b>Computer Science</b>, 
   <b>Full Stack Developer</b> 
