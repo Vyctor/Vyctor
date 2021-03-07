@@ -1,5 +1,5 @@
 <p>
-  <h1 align='center'> Hello there!<br>
+  <h1 align='center'> Hi there!<br>
     <span>My name's Vyctor and this is my Github personal page</span> <br>💻
   </h1>
 </p>
@@ -17,7 +17,7 @@
   with Javascript, Typescript, Angular, Node.js and Firebase/Google Cloud.
 
   <p align='center'>
-    <img src='./assets/me_and_mr_vader.jpg'>
+    <img src='./assets/my_avatar.png'>
   </p>
 </p>
 
@@ -30,7 +30,7 @@
 
 <h1> 🔭 I’m currently working with ...</h1>
 
-<h2 style="padding: 32px 0; font-weight: bold">🌐 Frontend</h2>
+<h2 style="padding: 32px 0; font-weight: bold">🌐 Front-end</h2>
 <p >
   <img src="https://img.shields.io/badge/html5%20-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/css3%20-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
@@ -38,10 +38,11 @@
   <img src="https://img.shields.io/badge/typescript%20-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/angular%20-DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;
 
-<h2 style="padding: 32px 0; font-weight: bold">⚙️ Backend</h2>
+<h2 style="padding: 32px 0; font-weight: bold">⚙️ Back-end</h2>
   <p>
     <img src="https://img.shields.io/badge/node.js%20-F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/firebase%20-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/express%20-47A248.svg?&style=for-the-badge&logo=express&logoColor=white" />&nbsp;&nbsp;
   </p>
 
 <h2 style="padding: 32px 0; font-weight: bold">🧰 Software and Tools</h2>
