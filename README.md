@@ -5,8 +5,8 @@
 </p>
  
 <p style="font-size: 18px">
-  Bachelor's degree in 
-  <b>Computer Science</b>, 
+  Studying 
+  <b>Software Analysis and Development at UNOPAR</b>, 
   <b>Full Stack Developer</b> 
   working at 
   <b>
