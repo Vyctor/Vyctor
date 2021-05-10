@@ -6,7 +6,7 @@
  
 <p style="font-size: 18px">
   Studying 
-  <b>Software Analysis and Development at UNOPAR</b>, 
+  <b>Software Analysis and Development at Estácio</b>, 
   <b>Full Stack Developer</b> 
   working at 
   <b>
@@ -17,7 +17,7 @@
   with Javascript, Typescript, Angular, Node.js and Firebase/Google Cloud.
 
   <p align='center'>
-    <img src='./assets/my_avatar.png'>
+    <img src='./assets/avatar.png'>
   </p>
 </p>
 
