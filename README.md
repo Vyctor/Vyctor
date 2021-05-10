@@ -7,8 +7,9 @@
 <p style="font-size: 18px">
   Studying 
   <b>Software Analysis and Development at Estácio</b>, 
-  <b>Full Stack Developer</b> 
-  working at 
+  <b>Full Stack Developer.</b> 
+  <br>
+  Working at 
   <b>
     <a href="https://pedeomenu.com.br" style="color:#fff;">
       Pede o Menu
