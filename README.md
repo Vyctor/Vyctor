@@ -1,64 +1,72 @@
-<p>
-  <h1 align='center'> Hi there!<br>
-    <span>My name's Vyctor and this is my Github personal page</span> <br>💻
-  </h1>
-</p>
- 
-<p style="font-size: 18px">
-  Studying 
-  <b>Software Analysis and Development at Estácio</b>, 
-  <b>Full Stack Developer.</b> 
-  <br>
-  Working at 
-  <b>
-    <a href="https://pedeomenu.com.br" style="color:#fff;">
-      Pede o Menu
-    </a>
-  </b> 
-  with Javascript, Typescript, Angular, Node.js and Firebase/Google Cloud.
+# Hey, I'm Vyctor 🤝
 
-  <p align='center'>
-    <img src='./assets/avatar.png'>
-  </p>
-</p>
+<img align="center" alt="Vyctor's LinkedIN" src="assets/avatar.png" />
 
-<p align='center'>
-  <a href="https://www.linkedin.com/in/vyctorguimaraes/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:dev.vyctor@gmail.com?subject=Olá%20Vyctor"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; 
-</p>
+
+```js
+const my_info = {
+  name: "Vyctor Guimarães"
+  located_in: {
+    country: "Brazil",
+    city: "Rio Verde"
+    state: "Goiás"
+  },
+  education: "B.Sc. in Computer Science  - Expect Gradiation: December 2023",
+  job: "IT Consultant",
+  company: "Pitang Consultoria e Sistemas S/A",
+  technical_interests: ["Software Engineering", "Clean Architecture", "Clean Code", "Web Development", "Mobile Development", "Back-end development", "Artificial Intelligence", "Block Chain", "Algorithms and Data Structures", "Distributed Computing", "]
+  currently_learning: ["React", "React Native", "Angularjs"m "Node.js"],
+  hobbies: ["Jiu-jitus", "Running", "Gaming", "Gym"]
+
+}
+```
 
 <hr>
 
-<h1> 🔭 I’m currently working with ...</h1>
+<div align="center">
+  <a href="https://www.linkedin.com/in/vyctorguimaraes/">
+    <img align="center" alt="Vyctor's LinkedIN" width="44px" src="assets/linkedin.svg" />
+  </a>
 
-<h2 style="padding: 32px 0; font-weight: bold">🌐 Front-end</h2>
-<p >
-  <img src="https://img.shields.io/badge/html5%20-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/css3%20-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/javascript%20-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/typescript%20-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/angular%20-DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;
+  <a href="https://open.spotify.com/user/12166662682">
+    <img align="center" alt="Vyctor's Spotify" width="44px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  </a>
+  
+  <a align="center" href="https://open.spotify.com/user/12166662682">
+    <img align="center" alt="Vyctor's Spotify" width="120px" src="https://visitor-badge.glitch.me/badge?page_id=vyctor" />  
+  </a>
+</div>
 
-<h2 style="padding: 32px 0; font-weight: bold">⚙️ Back-end</h2>
-  <p>
-    <img src="https://img.shields.io/badge/node.js%20-F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/firebase%20-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/express%20-47A248.svg?&style=for-the-badge&logo=express&logoColor=white" />&nbsp;&nbsp;
-  </p>
+<hr>
+<br>
 
-<h2 style="padding: 32px 0; font-weight: bold">🧰 Software and Tools</h2>
-  <p>
-    <img src="https://img.shields.io/badge/git%20-F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/github%20-181717.svg?&style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;    
-    <img src="https://img.shields.io/badge/bitbucket%20-0052CC.svg?&style=for-the-badge&logo=Bitbucket&logoColor=white" />&nbsp;&nbsp;     <img src="https://img.shields.io/badge/Insomnia%20-5849BE.svg?&style=for-the-badge&logo=Insomnia&logoColor=white" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Docker%20-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white" />&nbsp;&nbsp;
-  </p>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=vyctor&show_icons=true&theme=merko&include_all_commits=true&count_private=true%22" width="460px">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyctor&layout=compact&langs_count=7&theme=merko" width="335px">
+</div>
 
 <hr>
 
-<h2 style="padding: 32px 0; font-weight: bold">🌱 I'm currently learning...</h2> 
-<p>
-  <img src="https://img.shields.io/badge/react%20-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;      
-  <img src="https://img.shields.io/badge/flutter%20-02569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" /> &nbsp;&nbsp;&nbsp;      
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>&nbsp;&nbsp;&nbsp;  <img src="https://img.shields.io/badge/MongoDB%20-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white" />&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/PostgreSQL%20-336791.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white" />&nbsp;&nbsp;&nbsp;  <img src="https://img.shields.io/badge/jest%20-C21325.svg?&style=for-the-badge&logo=Jest&logoColor=white" />&nbsp;&nbsp;&nbsp;  
+<h2>Some Tools I Use</h2>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
 </p>
+<hr>
