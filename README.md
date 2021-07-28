@@ -15,7 +15,7 @@ const my_info = {
   company: "Pitang Consultoria e Sistemas S/A",
   technical_interests: ["Software Engineering", "Clean Architecture", "Clean Code", "Web Development", "Mobile Development", "Back-end development", "Artificial Intelligence", "Block Chain", "Algorithms and Data Structures", "Distributed Computing", "]
   currently_learning: ["React", "React Native", "Angularjs"m "Node.js"],
-  hobbies: ["Jiu-jitsu", "Running", "Gaming", "Gym"]
+  hobbies: ["BJJ", "Running", "Gaming", "Gym"]
 
 }
 ```
