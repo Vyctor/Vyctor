@@ -2,7 +2,6 @@
 
 <img align="center" alt="Vyctor's LinkedIN" src="assets/avatar.png" />
 
-
 ```js
 const my_info = {
   name: "Vyctor Guimarães"
@@ -16,7 +15,7 @@ const my_info = {
   company: "Pitang Consultoria e Sistemas S/A",
   technical_interests: ["Software Engineering", "Clean Architecture", "Clean Code", "Web Development", "Mobile Development", "Back-end development", "Artificial Intelligence", "Block Chain", "Algorithms and Data Structures", "Distributed Computing", "]
   currently_learning: ["React", "React Native", "Angularjs"m "Node.js"],
-  hobbies: ["Jiu-jitus", "Running", "Gaming", "Gym"]
+  hobbies: ["Jiu-jitsu", "Running", "Gaming", "Gym"]
 
 }
 ```
