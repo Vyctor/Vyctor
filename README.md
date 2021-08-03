@@ -1,4 +1,11 @@
-# Hey, I'm Vyctor 🤝
+# Hey, I'm Vyctor Guimarães 🤝
+
+<div>
+  <p>
+    Passionate about technology, computing and using creativity to build the best IT solutions.
+    I am constantly updating, daily studying and developing projects that can challenge me to improve my software building skills, making me a more capable professional. 
+  </p>
+</div>
 
 <img align="center" alt="Vyctor's LinkedIN" src="assets/avatar.png" />
 
