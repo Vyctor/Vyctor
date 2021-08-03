@@ -34,7 +34,7 @@ const my_info = {
   </a>
 
   <a href="https://open.spotify.com/user/12166662682">
-    <img align="center" alt="Vyctor's Spotify" width="44px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+    <img align="center" alt="Vyctor's Spotify" width="44px" src="assets/spotify.svg" />
   </a>
   
   <a align="center" href="https://open.spotify.com/user/12166662682">
