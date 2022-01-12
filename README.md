@@ -19,7 +19,7 @@ const my_info = {
   },
   education: "B.Sc. in Computer Science  - Expect Gradiation: December 2023",
   job: "IT Consultant",
-  company: "Pitang Consultoria e Sistemas S/A",
+  company: "Pitang Agile IT",
   technical_interests: ["Software Engineering", "Clean Architecture", "Clean Code", "Web Development", "Mobile Development", "Back-end development", "Artificial Intelligence", "Block Chain", "Algorithms and Data Structures", "Distributed Computing"]
   currently_learning: ["React", "React Native", "Angularjs", "Node.js"],
   hobbies: ["BJJ", "Running", "Gaming", "Gym"]
