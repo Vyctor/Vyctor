@@ -17,9 +17,9 @@ const my_info = {
     city: "Rio Verde"
     state: "Goiás"
   },
-  education: "B.Sc. in Computer Science  - Expect Gradiation: December 2023",
+  education: "Backend Development Technologist",
   job: "Backend Developer",
-  company: "Conexia Educação",
+  company: "Conexia Educação - Grupo SEB",
   technical_interests: ["Software Engineering", "Clean Architecture", "Clean Code", "Web Development", "Mobile Development", "Back-end development", "Artificial Intelligence", "Block Chain", "Algorithms and Data Structures", "Distributed Computing"]
   currently_learning: ["React", "React Native", "Angularjs", "Node.js"],
   hobbies: ["BJJ", "Running", "Gaming", "Gym"]
