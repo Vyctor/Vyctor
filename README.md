@@ -17,7 +17,7 @@ const my_info = {
   job: "Backend Developer",
   company: "Conexia Educação - Grupo SEB",
   technical_interests: ["Software Engineering", "Clean Architecture", "Clean Code", "Web Development", "Mobile Development", "Back-end development", "Artificial Intelligence", "Block Chain", "Algorithms and Data Structures", "Distributed Computing"]
-  currently_learning: ["React", "React Native", "Angularjs", "Node.js"],
+  currently_learning: ["NodeJS", "C#", "NestJS", "TDD", "DDD", "Clean Architecture"],
   hobbies: ["BJJ", "Running", "Gaming", "Gym"]
 }
 ```
