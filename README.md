@@ -10,7 +10,9 @@ const my_info = {
     state: "Goiás"
   },
   bio: `
-        I am a Senior Software Developer and Tech Lead with extensive experience in Node.js, Golang, and various databases, including relational and non-relational ones. I specialize in using frameworks such as NestJS and Express to build scalable, performant systems. I am well-versed in TypeScript and JavaScript and have worked with a wide range of technologies, including Firebase, MySQL, MongoDB, and PostgreSQL.
+        I am a Senior Software Developer and Tech Lead with extensive experience in Node.js, Golang, and various databases, 
+        including relational and non-relational ones. I specialize in using frameworks such as NestJS and Express to build scalable, performant systems. 
+        I am well-versed in TypeScript and JavaScript and have worked with a wide range of technologies, including Firebase, MySQL, MongoDB, and PostgreSQL.
       `
   education: "B.Sc. Computer Science",
   job: "Tech Leader and Senior Software Engineer",
