@@ -31,10 +31,6 @@ const my_info = {
   <a style="padding-right: 10px" href="https://open.spotify.com/user/12166662682">
     <img align="center" alt="Vyctor's Spotify" width="44px" src="assets/spotify.svg" />
   </a>
-  
-  <a style="padding-right: 10px" align="center" href="https://open.spotify.com/user/12166662682">
-    <img align="center" alt="Vyctor's Spotify" width="120px" src="https://visitor-badge.glitch.me/badge?page_id=vyctor" />  
-  </a>
 </div>
 
 <hr>
