@@ -10,14 +10,13 @@ const my_info = {
     state: "Goiás"
   },
   bio: `
-        Passionate about technology, computing and using creativity to build the best IT solutions.
-        I am constantly updating, daily studying and developing projects that can challenge me to improve my software building skills, making me a more capable professional.
+        I am a Senior Software Developer and Tech Lead with extensive experience in Node.js, Golang, and various databases, including relational and non-relational ones. I specialize in using frameworks such as NestJS and Express to build scalable, performant systems. I am well-versed in TypeScript and JavaScript and have worked with a wide range of technologies, including Firebase, MySQL, MongoDB, and PostgreSQL.
       `
-  education: "Backend Development Technologist",
-  job: "Backend Developer",
-  company: "Conexia Educação - Grupo SEB",
+  education: "B.Sc. Computer Science",
+  job: "Tech Leader and Senior Software Engineer",
+  company: "Allied Brasil",
   technical_interests: ["Software Engineering", "Clean Architecture", "Clean Code", "Web Development", "Mobile Development", "Back-end development", "Artificial Intelligence", "Block Chain", "Algorithms and Data Structures", "Distributed Computing"]
-  currently_learning: ["NodeJS", "C#", "NestJS", "TDD", "DDD", "Clean Architecture"],
+  currently_learning: ["NodeJS", "C#", "NestJS", "TDD", "DDD", "Clean Architecture", "Elixir", "Go"],
   hobbies: ["BJJ", "Running", "Gaming", "Gym"]
 }
 ```
