@@ -18,6 +18,6 @@ Overall, I have a strong track record of success in a variety of technical roles
 
 ## Contact
 
-- (Linkedin)[https://linkedin.com/in/vyctorguimaraes]
+- [Linkedin](https://linkedin.com/in/vyctorguimaraes)
 
-- (DevTo)[https://dev.to/vyctor]
+- [DevTo](https://dev.to/vyctor)
