@@ -15,3 +15,9 @@ Overall, I have a strong track record of success in a variety of technical roles
 - Databases: MySQL, PostgreSQL, Firebase, Firestore, SQL Server
   
 - DevOps: CI/CD, Kubernetes, Docker, Rancher, Portainer
+
+## Contact
+
+- (Linkedin)[https://linkedin.com/in/vyctorguimaraes]
+
+- (DevTo)[https://dev.to/vyctor]
