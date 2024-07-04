@@ -1,70 +1,17 @@
-<img align="center" alt="Vyctor's LinkedIN" src="assets/github-header-image.png" />
-<hr/>
+# VYCTOR VIEIRA GUIMARÃES
 
-```js
-const my_info = {
-  name: "Vyctor Guimarães"
-  located_in: {
-    country: "Brazil",
-    city: "Rio Verde"
-    state: "Goiás"
-  },
-  bio: `
-        I am a Senior Software Developer and Tech Lead with extensive experience in Node.js, Golang, and various databases, 
-        including relational and non-relational ones. I specialize in using frameworks such as NestJS and Express to build scalable, performant systems. 
-        I am well-versed in TypeScript and JavaScript and have worked with a wide range of technologies, including Firebase, MySQL, MongoDB, and PostgreSQL.
-      `
-  education: "B.Sc. Computer Science",
-  job: "Tech Leader and Senior Software Engineer",
-  company: "Allied Brasil",
-  technical_interests: ["Software Engineering", "Clean Architecture", "Clean Code", "Web Development", "Mobile Development", "Back-end development", "Artificial Intelligence", "Block Chain", "Algorithms and Data Structures", "Distributed Computing"]
-  currently_learning: ["NodeJS", "C#", "NestJS", "TDD", "DDD", "Clean Architecture", "Elixir", "Go"],
-  hobbies: ["BJJ", "Running", "Gaming", "Gym"]
-}
-```
+A passionate software engineer with a strong desire to learn and build scalable, maintainable, and valuable software solutions. Proven experience in Node.js, TypeScript, Angular, Nest.js, Serverless Framework, cloud platforms (AWS, Azure DevOps), and a variety of other technologies. Continuously seeking to improve my knowledge and skills through self-directed learning, bootcamps, and online courses. Actively sharing knowledge with colleagues and fostering a collaborative learning environment.
+Overall, I have a strong track record of success in a variety of technical roles. Have a proven ability to lead and collaborate with teams in a wide range of technologies. 
 
-<hr>
 
-<div style="display:flex; max-width:100%; align-items: center; justify-content: center;" align="center">
-  <a style="padding-right: 10px" href="https://www.linkedin.com/in/vyctorguimaraes/">
-    <img align="center" alt="Vyctor's LinkedIN" width="44px" src="assets/linkedin.svg" />
-  </a>
+## Technical Skills
 
-  <a style="padding-right: 10px" href="https://open.spotify.com/user/12166662682">
-    <img align="center" alt="Vyctor's Spotify" width="44px" src="assets/spotify.svg" />
-  </a>
-</div>
-
-<hr>
-<br>
-
-<div style="display:flex; width:100%; align-items: center; justify-content: center;" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vyctor&show_icons=true&theme=merko&include_all_commits=true&count_private=true%22" width="460px">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyctor&layout=compact&langs_count=7&theme=merko" width="335px">
-</div>
-
-<hr>
-
-<h2 style="display:flex; width:100%; align-items: center; justify-content: center; padding:32px 0" align="center">Some Tools I Use</h2>
-<p align="center">
-<img   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
-<img style="padding-right: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
-<img style="padding-right: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
-<img style="padding-right: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
-<img style="padding-right: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="25" height="25" />
-<img style="padding-right: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" />
-<img style="padding-right: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
-<img style="padding-right: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
-<img style="padding-right: 10px"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
-<img style="padding-right: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
-<img style="padding-right: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" />
-<img style="padding-right: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
-<img style="padding-right: 10px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="25" height="25" />
-<img style="padding-right: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
-<img style="padding-right: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
-<img style="padding-right: 10px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
-<img style="padding-right: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
-<img style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
-</p>
-<hr>
+- Programming Languages: Javascript, TypeScript, Golang
+  
+- Cloud Platforms: AWS, Azure DevOps
+  
+- Messaging: Apache Kafka, Redis
+  
+- Databases: MySQL, PostgreSQL, Firebase, Firestore, SQL Server
+  
+- DevOps: CI/CD, Kubernetes, Docker, Rancher, Portainer
