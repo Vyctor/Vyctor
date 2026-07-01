@@ -36,4 +36,4 @@ Lover of Technology, performance optimization, and building resilient software :
 - Em andamento: Sequência de certificações Microsoft Azure (AZ-900, AZ-104, AZ-204 e AZ-305)
 
 ---
-⭐️ *From [Vyctor Vieira](https://github.com/SeuUsuario)*
+⭐️ *From [Vyctor Vieira](https://github.com/vyctor)*
