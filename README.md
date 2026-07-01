@@ -17,7 +17,7 @@ Lover of Technology, performance optimization, and building resilient software :
 - ⚡ Focado em otimização de sistemas: alcancei redução de 85% no tempo de processamento de pedidos utilizando Apache Kafka e CDC.
 - 🏗️ Forte experiência na modernização de aplicações legadas utilizando Clean Architecture, Domain-Driven Design (DDD) e Microsserviços.
 - 🌎 Dedicando parte da minha rotina diária aos estudos de inglês, com foco no desenvolvimento e colaboração em projetos internacionais.
-- 🥋 Nos momentos off-line, divido meu tempo entre a disciplina do Jiu-Jitsu, os treinos na academia e a paixão pela cultura automotiva (especialmente restaurando carros clássicos e customizando minha moto).
+- 🥋 Nos momentos off-line, divido meu tempo entre a disciplina do Jiu-Jitsu, os treinos na academia e a paixão pela cultura automotiva.
 - Thanks for visiting. Enjoy it!! o/
 
 ## Technical Skills
